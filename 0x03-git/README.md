@@ -1,1 +1,1 @@
-This is a directory containing files on commands using GitHub
+Updated README.md like task requested.
